@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "booming-flash-437514-j2",
+  "private_key_id": "8cc4dcd18ad922120208ebdba2a0012bc23cdb58",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDmWw4D02Bbd5qH\n+mCb1OwmNDEgocpJ9yy8oMiZHfiM37vGabNtBM0kVAwNNuwilf0ajVGDVu8NuXXY\nXIrwluewB4pF4DHrRNKvVvSDHAwswtyj/n39RW5DxoGzdjrrtvo1IpQcqKvfjBc4\ntEnv/CYzzLokiHQtrsOJAD8FmKU8Gvly6mGA6KjiDW3U87YPd1AAcV1jXA1rdpnT\nGSwYB5rTtDDJSd1ZUw1iIvCHiggd6NRlql2N47Qz+ToQHOMgS87fdkhuKq8JGxX4\nNQ+LwC9IkWv8q4YO95VGxll+MOBjCozYz0mwqCepWtuLRxHPcqNw9JHzot4DYQwG\nUKslZZYlAgMBAAECggEAKwHjiTfQ9OrM5WfL2zRC3bQfWvgR8ELPba04How/sC+C\nW54281ry4P43HM19A00NCwTI6/RSX/XZCGrovtfxzEXwHTEpKMN58WYS8xqMtFuy\nPYUBaUSp/Enmw8aGZCVOrBZ3YC1mn29Ek5/ncQCa8k9eDn2ScUgAdkbfPVB9Qw3s\ndKwrivx63CYyo2Kaz1r4ehTU8rn18ckMgraXuZ7vm84t4+Zh7ypjxNNDOvdjDUnt\nCONqJM9Usw073gWD/2plW706OwkB3wXH2yLW3LmBpnHYKEuVwcOb/ixtv1yFAy9D\nPLHGhtoYz1FuELB1/iIM9qzAzeXkCTM8sH+zo9UwiQKBgQD9JiV5QY8c3d3dt1ij\n/DMIQgaUXbLOHWBZRV75BNvb1dntfHDOe1ySAgWypzv+blFbwl6LheWIB/5yJZ+n\njcJ9r9CdnghnCzCwkcYWYUGBHIWP08riONjvmvbeRoOalm2ntg/sE9BBTUuOWUWC\n/AkYTnti72ELsvOduCW57YGPiQKBgQDo8zFlMTCtrs+ng/feDC28GMuE1HQrSFAA\ngUbDFB6WHBBHuT2X2tKraJZMBSWEJUpgUyeFAvTTR9gioouLDBTbnvOz60/uLqlQ\niYAafRf1sNMXJwP8s6iDtVTuPKqc6QOtb621Ni9+LcZOW/hulnxTEDwst51aTU3o\nlK2cDFQuvQKBgFOeliJHlY5jezYRqiYA2JqRtLqteLK84Wabk5OOF1G2ghYAVQLf\nnORd5qPsudSBfD5jJffQctFMUrBB3UrreKMrwC1QVlYzTBIHFPeviIOteDDaNNol\nDQOYnJMvl6kop3AOo5PHt7LaZWrP8jYiKp7szbUQfW3v3qjqewu/eFyBAoGBAJVl\n+uTqMk0Bkx3dLieTafV7dXMACm0D2IMqZeaQzbj50JsfO1hbt8bEsbeZiWEBxXyX\nd/3/UmL6baxw0MvheLMNc0CNhtq7xEzpkmXqmmYw/ICZvh3gXw/xSMHt2IH/kyM1\nP5O7Z6Ql2UvCAkdybdOb0uve6qTSdUfXqqws4ASFAoGAc6Dh2jnZ6SEjh1Myw8Hj\nHqXaIJPXtPqPlyUzypxDvOXw27zFfHQOuObrt8G+mUyylute2nQ68ZDjZi1Y3idz\n22pFjP9o79h9sXChmm0BJHzQ0qRCCIPqe4qKYT9UGHBjhQjZUvBCfQ682PwVtuDE\nE3Na3BbgO4uUaYTqoyVedAQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "calendar-work@booming-flash-437514-j2.iam.gserviceaccount.com",
+  "client_id": "108647838993059375117",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/calendar-work%40booming-flash-437514-j2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
